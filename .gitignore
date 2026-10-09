@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Large media and source files
+*.mp4
+*.mov
+*.pdf
+
+# Editor
+.vscode/
+.idea/
